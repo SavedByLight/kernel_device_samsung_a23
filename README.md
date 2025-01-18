@@ -1,0 +1,1 @@
+# kernel_device_samsung_a23
